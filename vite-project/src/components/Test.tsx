@@ -1,5 +1,5 @@
 function Test() {
-    return (<div>Hej</div>)
+  return <div className="bg-green-100">Hej</div>;
 }
 
-export default Test
+export default Test;

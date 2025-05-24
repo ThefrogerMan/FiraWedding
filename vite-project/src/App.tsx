@@ -1,5 +1,6 @@
 // import Test from "./components/Test";
 import Hero from "./components/Hero";
+import Person from "./components/Person";
 import Schedule from "./components/Schedule";
 
 function App() {
@@ -8,6 +9,7 @@ function App() {
       <Hero />
       {/* <Test></Test> */}
       <Schedule />
+      <Person />
     </div>
   );
 }
